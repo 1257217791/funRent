@@ -111,7 +111,7 @@
       <artifactId>mysql-connector-java</artifactId>
       <version>5.1.36</version>
     </dependency>
-    <!-- 导入durip -->
+    <!-- 导入druid -->
     <dependency>
       <groupId>com.alibaba</groupId>
       <artifactId>druid</artifactId>
